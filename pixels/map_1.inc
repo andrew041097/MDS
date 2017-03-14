@@ -1,0 +1,1 @@
+<map name="main" id="main" onmousemove="cI()"></map>
